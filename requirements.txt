@@ -1,0 +1,6 @@
+pypresence==4.3.0
+psutil==7.0.0
+customtkinter==5.2.2
+Pillow==11.2.1
+pystray==0.19.5
+pywin32==311
